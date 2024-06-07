@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantjh&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantjh" /> </p>
 
-- 🌱 I’m currently learning **Improving my problem-solving skills and learning machine learning.**
+- 🌱 I’m currently learning **Improving my problem-solving skills and learning Backend And Frontend Development**
 
 - 💬 Ask me about **Kotlin , Android Dev and Web Dev**
 
